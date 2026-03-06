@@ -1,9 +1,7 @@
-# Device Check — [Your Name]
-
+# Device Check — [osama}
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
-
+**Date completed:** [2026/0/0]
+**GitHub username:** [osamaharrab}
 ---
 
 ## System Specifications
@@ -14,7 +12,7 @@
 | OS Build / Version | |
 | RAM | (e.g., 16 GB) |
 | CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
+| CPU Cores | 12 |
 | Free Disk Space | (e.g., 45 GB free) |
 | Internet Speed (Download) | (from speedtest.net — Mbps) |
 
